@@ -72,3 +72,4 @@ jobs:
       with:
         name: libusbmuxd-latest_${{ matrix.arch }}-${{ env.dest }}
         path: libusbmuxd.tar
+
